@@ -6,19 +6,19 @@
 >
 > After I find the password, I will use that password to log into bandit1 using ssh.
 
-I log in with:
+I logged in with:
 
 ```bash
 ssh -p 2220 bandit0@bandit.labs.overthewire.org
 ```
 
-Once I logged in, I run the command:
+Once I logged in, I ran the command:
 
 ```bash
 ls
 ```
 
-After that I see, there is a file named "readme" and I run the the command:
+After that I saw there is a file named "readme" and I ran the the command:
 
 ```bash
 cat readme
