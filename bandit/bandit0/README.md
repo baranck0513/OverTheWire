@@ -10,7 +10,7 @@
 >
 > Once logged in, we need to go to the Level 1.
 
-I log in with:
+I logged in with:
 
 ```bash
 ssh -p 2220 bandit0@bandit.labs.overthewire.org
